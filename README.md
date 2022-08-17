@@ -1,4 +1,4 @@
 # RL-Inator
-## A project on reinforcement learning, linear algebra, and robotics.
+## A hands-on project utilizing concepts from Reinforcement Learning, Linear Algebra, and Robotics.
 
 Maintained by Viraj Shah.
