@@ -44,7 +44,7 @@ Versions included wherever they matter.
 ### Installations
 
 Just clone this repository - <kbd>git clone https://github.com/virajbshah/rl-inator.git</kbd> - and  
-you're ready to go!
+you're ready to go! Dependencies can also be installed using <kbd>pip install -r requirements.txt</kbd>  
 
 
 ## Usage Examples
@@ -68,7 +68,7 @@ respective environments, solve them, and display their solutions upon executing 
 - [x] Work with Temporal Difference methods (Q-Learning) to solve control problems.
 - [x] Use Deep Q-Networks to adapt methods like Q-Learning to problems where using Q-Tables is not  
       feasible as a result of the complexity of the problem.
-- [ ] Implement various custom OpenAI Gym environments.
+- [x] Implement various custom OpenAI Gym environments.
 
 
 ## Resources and Acknowledgements
